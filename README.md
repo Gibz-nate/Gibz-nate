@@ -1,6 +1,6 @@
 ![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 <h1 align="center">Hi 👋, I'm Gibz Nate</h1>
-<h3 align="center">Software developer and cyber security</h3>
+<h3 align="center">Software developer and cybernetics</h3>
 <img  src="https://media.tenor.com/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" alt="coding" width="400" align="center" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gibz-nate&label=Profile%20views&color=0e75b6&style=flat" alt="gibz-nate" /> </p>
