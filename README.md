@@ -1,13 +1,13 @@
-![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
+
 <h1 align="center">Hi 👋, I'm Gibz Nate</h1>
 <h3 align="center">Software developer and cybernetics</h3>
 <img  src="https://media.tenor.com/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" alt="coding" width="400" align="center" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gibz-nate&label=Profile%20views&color=0e75b6&style=flat" alt="gibz-nate" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gibz-nate&label=Profile%20views&color=0e75b6&style=flat" alt="gibz-nate" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gibz-nate" alt="gibz-nate" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gibz-nate" alt="gibz-nate" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱  Currently learning **Django**
 
