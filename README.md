@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Gibz Nate</h1>
+<h1 align="center">🕸️</h1>
 <h3 align="center">Software Dev and cybernetics</h3>
 <p align="center"> <img  src="https://media.tenor.com/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" alt="coding" width="400"/> </p>
 
