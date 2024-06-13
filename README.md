@@ -16,7 +16,6 @@
 </p>
 
 <h3 align="center">Languages and Tools</h3>
-<hr>
 <p align="center" >
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -50,7 +49,7 @@
   </a>
 </p>
 
-
+<hr>
 <h3 align="center">Analytics</h3>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gibz-nate&show_icons=true&locale=en&layout=compact" alt="gibz-nate" /></p>
 
