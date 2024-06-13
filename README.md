@@ -1,6 +1,6 @@
 
 <h1 align="center">🕸️</h1>
-<h3 align="center">DevOps</h3>
+<h3 align="center">WebDev</h3>
 <p align="center"> <img  src="https://media.tenor.com/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" alt="coding" width="400"/> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gibz-nate&label=Profile%20views&color=0e75b6&style=flat" alt="gibz-nate" /> </p>
