@@ -16,7 +16,7 @@
 
 <div align="center">
 <h2>Languages and Tools🛠️</h2>
-<img src="https://skillicons.dev/icons?i=python,html,js,ts,css,vite,nodejs,express,threejs,solidity,go,blender,mysql,sqlite,react">
+<img src="https://skillicons.dev/icons?i=html,css,js,threejs,ts,vite,blender,react,nodejs,express,python,solidity,go,mysql,sqlite">
 </div>
 
 
