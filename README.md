@@ -1,5 +1,5 @@
 
-<h3 align="center"><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f578.png" width="50" height="50" alt="🕸️"></h3>
+<h3 align="center" width="50" height="50">🕸️</h3>
 <h1 align="center">WEB.DEV</h1>
 <p align="center"> <img  src="https://media.tenor.com/9Pn19IB5kYcAAAAC/hacking-computer-screen.gif" alt="coding" width="400"/> </p>
 
